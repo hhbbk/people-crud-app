@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appll"
+    }
+  },
+  "defaultProject": "appll",
+  "cli": {
+    "analytics": false
+  }
 }
